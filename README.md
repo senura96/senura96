@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @senura96
 - 👀 I’m interested in ... Machine Learning , Deep Learning , Reinforcement Learning & NLP
 - 🌱 I’m currently learning ... Reinforcement Learning
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... https://www.linkedin.com/in/senura-ruvinda-fernando-6541a9101/
+- 📫 How to reach me ... https://www.linedin.com/in/senura-ruvinda-fernando-6541a9101/
 
 <!---
 senura96/senura96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
